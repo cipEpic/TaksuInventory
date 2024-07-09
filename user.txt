@@ -1,0 +1,29 @@
+Fitur untuk Admin
+
+Username : admin
+
+password :123456
+
+Data Barang
+Kategori
+Kondisi
+Ruangan
+User
+Peran User
+Akses User
+
+
+
+Fitur untuk User
+
+Username : user
+
+password :123456
+
+Data Barang
+Kategori
+Kondisi
+Ruangan
+
+pass webhost000 hosting : Manusiamanusiakuat1!
+db username : id21430982_evidiana
